@@ -1,0 +1,6 @@
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\bin\Debug\Demo03.exe.config
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\bin\Debug\Demo03.exe
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\bin\Debug\Demo03.pdb
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\obj\Debug\Demo03.exe
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\obj\Debug\Demo03.pdb
+E:\Workspace\Programming C#\AsynchronousCSharp5WPF\Demo03\obj\Debug\Demo03.csprojResolveAssemblyReference.cache
